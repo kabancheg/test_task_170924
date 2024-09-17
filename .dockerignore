@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+app/**/__pycache__/
+.venv
+venv/
+
+# Local data
+/data
+/docker_app
+/docker_volumes
+/docker_db
